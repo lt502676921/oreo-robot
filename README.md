@@ -35,7 +35,7 @@ $ node server.js
 $ cd client
 $ npm install
 $ npm run build
-# 在浏览器中打开 index.html
+# Put index.html into the browser to open
 ```
 
 
